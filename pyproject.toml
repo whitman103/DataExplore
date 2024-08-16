@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "dataexplore"
+version = "0.1.0"
+description = ""
+authors = ["whitman103 <64374101+whitman103@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+matplotlib = "^3.9.2"
+scikit-learn = "^1.5.1"
+numpy = "^2.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
