@@ -10,6 +10,11 @@ python = "^3.12"
 matplotlib = "^3.9.2"
 scikit-learn = "^1.5.1"
 numpy = "^2.0.1"
+<<<<<<< Updated upstream
+=======
+pandas = "^2.2.2"
+seaborn = "^0.13.2"
+>>>>>>> Stashed changes
 
 
 [build-system]
