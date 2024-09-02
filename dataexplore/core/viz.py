@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 from dataclasses import dataclass, field
 from typing import Iterable, List
+import numpy as np
 
 
 @dataclass
